@@ -1,0 +1,17 @@
+Customer Churn Analysis Insights
+
+1. Churn Distribution:
+Most customer did not churn, but a significant portion left the telecom service.
+
+2. Churn by Contract Type:
+Customers with month-to-month contracts have the highest churn rate compared to one-year or two-year contracts.
+
+3. Monthly Charges vs Churn:
+Customers paying higher monthly charges tend to churn more frequently.
+
+4. Tenure Distribution:
+Customers with shorter tenure are more likely to churn.
+
+5. Churn by Internet Service:
+Certain internet sevice types show higher churn compared to other.
+
